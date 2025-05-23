@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm ph0ryn 👋
 
-<!--
-**ph0ryn/ph0ryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Old Name
+I used the name `futuyu` for less than 2 weeks. It was my temporary name xd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 19 y/o Japanese university student (2nd year)
+- 6 years of coding experience
+- I can speak a little English (still learning!)
+
+## Skills
+- Python
+- JavaScript & TypeScript (beginner)
+
+## Currently Learning / Interested In (progress)
+- Rust (1%)
+- Swift (5%)
+- Git (10%)
+- TCP/IP (2%)
+- Vibe coding (20%)
+- CSS (15%)
+
+## LLMs and Agents I've used
+- Claude
+- ChatGPT
+- Copilot
+- Manus
+- NotebookLM
+- Perplexity
+
+---
+
+ive not finished writing this `README.md` yet
+
+---
+
+![ph0ryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ph0ryn&show_icons=true&theme=tokyonight)

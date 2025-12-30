@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 19 y/o Japanese university student (2nd year)
-- 6 years of coding experience
+- 6 years of ~~coding experience~~ experience of writing something useless
 - speak a little English (still learning!)
 
 ## Skills
@@ -17,13 +17,6 @@ Welcome to my GitHub profile!
 - Gemini Pro
 - NotebookLM
 - Manus
-
-## pfp
-nanobanana
-```prompt
-attachment: selfie
-パステルチックなイラストにして
-```
 
 ---
 

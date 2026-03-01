@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 19 y/o Japanese university student (2nd year)
+- 20 y/o Japanese university student (2nd year)
 - 6 years of ~~coding experience~~ experience of writing something useless
 - speak a little English (still learning!)
 
@@ -17,7 +17,3 @@ Welcome to my GitHub profile!
 - Gemini Pro
 - NotebookLM
 - Manus
-
----
-
-![ph0ryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ph0ryn&show_icons=true&theme=tokyonight)
